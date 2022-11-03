@@ -14,7 +14,7 @@ Criando um plano de estudo para FrontEnd com github.
 
 ## Meta a ser atingidas:
 > Fazer o curso: Bootcamp Orange Tech + (https://web.dio.me/track/orange-tech)
- - [ ] Primeira semana
+ - [X] Primeira semana
  - [ ] Segunda semana
  - [ ] Terceira semana
  - [ ] Quarta semana
